@@ -1,0 +1,57 @@
+{
+  "projetos": [
+    {
+      "id": 1,
+      "nome": "Alura Tracker"
+    },
+    {
+      "id": 2,
+      "nome": "alura tracker 2.0"
+    },
+    {
+      "id": 4,
+      "nome": "opa"
+    },
+    {
+      "nome": "oopaopa",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "nome": "estudos pessoais 2"
+    },
+    {
+      "nome": "estudando padrões",
+      "id": 7
+    },
+    {
+      "nome": "teste mesmo",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "nome": "estudando 20"
+    }
+  ],
+  "tarefas": [
+
+    {
+      "duracaoEmSegundos": 17,
+      "descricao": "ALFREDO",
+      "projeto": {
+        "id": 4,
+        "nome": "opa"
+      },
+      "id": 2
+    },
+    {
+      "duracaoEmSegundos": 7,
+      "descricao": "test teste teste ",
+      "projeto": {
+        "id": 4,
+        "nome": "opa"
+      },
+      "id": 5
+    }
+  ]
+}
