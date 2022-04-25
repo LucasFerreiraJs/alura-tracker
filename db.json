@@ -2,11 +2,11 @@
   "projetos": [
     {
       "id": 1,
-      "nome": "Alura Tracker"
+      "nome": ""
     },
     {
-      "nome": "Estudar Vue",
-      "id": 2
+      "id": 2,
+      "nome": ""
     }
   ],
   "tarefas": [
